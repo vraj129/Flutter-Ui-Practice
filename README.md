@@ -1,16 +1,25 @@
 # gameon
 
-A new Flutter project.
+Practicing to make complex UI design in Flutter
 
-## Getting Started
+Sceern shot of the App :-
 
-This project is a starting point for a Flutter application.
+<img src="SS1.jpg" width=324 height=666>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--------------------------------------------------
+<img src="SS2.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS3.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS4.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS5.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS6.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS7.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS8.jpg" width=324 height=666>
+--------------------------------------------------
+<img src="SS9.jpg" width=324 height=666>
+--------------------------------------------------
